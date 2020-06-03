@@ -1,2 +1,4 @@
-def request_via_redirect
+def User 
+  
+end 
   
